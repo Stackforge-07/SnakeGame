@@ -13,7 +13,7 @@ let snake = [{x: 10, y: 10}];
 let direction = 'RIGHT';
 let food = {x: 15, y: 10};
 let score = 0;
-let gamespeed = 100;
+let gamespeed = 200;
 let loopTimeout; // Variable to track our game loop so we don't double-start it
 
 let highScore = localStorage.getItem('snakeHighScore') || 0;
