@@ -1,0 +1,26 @@
+button{
+    width: 10%;
+    height: 20%;
+    /* background-color: aqua; */
+    padding: 20px;
+   
+ 
+   
+}
+.strt{
+    /* background-color: bisque; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  
+}
+
+.canv{
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+
+}
